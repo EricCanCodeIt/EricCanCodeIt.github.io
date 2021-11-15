@@ -1,0 +1,42 @@
+*
+.navbar{
+    width: 700px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: x-large;
+    border-radius: 12px;
+}
+.navbar > div {
+    flex: 1 1 150px;
+    border-radius: 12px;
+}
+
+h1{
+    align-items: center;
+   
+
+}
+
+h2{
+    align-items: center;
+    font-size: 15px;
+}
+
+#aboutContainer{
+    font-size: 13px;
+}
+
+#projectsContainer{
+    font-size: 13px;
+}
+
+.headshot{
+    width: 20%;
+    height: auto;
+}
+
+footer{
+    font-size: 12px;
+}
